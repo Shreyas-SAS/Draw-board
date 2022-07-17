@@ -3,7 +3,7 @@ Drawing application like MS paint based on web app using javascript
 
 ## Getting Started
 
-To start using the application you can either clone the repository and launch the index.html file or view the hosted version of the web app here at [link](#)
+To start using the application you can either clone the repository and launch the index.html file or view the hosted version of the web app here at [draw-artist](https://draw-artist.herokuapp.com/)
 
 ---
 <b>Description:</b><br>
